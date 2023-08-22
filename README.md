@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Rizki
-- 👀 I’m interested in Web Development and Data Analytics
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Web Development, Machine Learning, SQL, Python, C, etc.
 
 <!---
