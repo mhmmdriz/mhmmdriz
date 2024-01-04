@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rizki
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Web Development, Machine Learning, SQL, Python, C, etc.
+- 👀 I’m interested in Back-End Web Development
+- 🌱 I’m currently learning Laravel, NodeJS, GoLang
 
 <!---
 mhmmdriz/mhmmdriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
