@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Muhammad Rizki
-- 👀 I’m interested in Back-End Engineering
-- 🌱 I’m currently learning Laravel, NodeJS, GoLang
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20to%20My%20Github!&section=header&reversal=false&fontAlignY=30&fontSize=35">
 
 <h2 align="center">GitHub Stats</h2>
 <table>
@@ -21,3 +19,5 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,docker" />
 </div>
+
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&fontAlignY=30&fontSize=35">
