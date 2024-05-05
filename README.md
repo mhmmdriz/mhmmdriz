@@ -1,4 +1,4 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20to%20My%20Github!&section=header&reversal=false&fontAlignY=30&fontSize=35">
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&text=Welcome%20to%20My%20Github!&section=header&reversal=false&fontAlignY=30&fontSize=35">
 
 <h2 align="center">GitHub Stats</h2>
 <table>
@@ -20,4 +20,4 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,docker" />
 </div>
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&fontAlignY=30&fontSize=35">
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer&reversal=false&fontAlignY=30&fontSize=35">
