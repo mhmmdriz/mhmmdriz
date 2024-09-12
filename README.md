@@ -1,16 +1,11 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&text=Welcome%20to%20My%20Github!&section=header&reversal=false&fontAlignY=30&fontSize=35">
 
 <h2 align="center">GitHub Stats</h2>
-<table>
-  <tr>
-    <td>
+<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mhmmdriz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mhmmdriz&theme=tokyonight&hide_border=true"/>
-    </td>                           
-  </tr>
-</table>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mhmmdriz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdriz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 <h2 align="center">Skills (Frameworks-Languages-Tools-Databases)</h2>
 <br/>
