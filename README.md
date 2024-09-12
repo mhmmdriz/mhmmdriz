@@ -26,6 +26,3 @@
 </div>
 
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer&reversal=false&fontAlignY=30&fontSize=35">
-aa|bb|cc
---|--|--
-ee|ff|gg 
