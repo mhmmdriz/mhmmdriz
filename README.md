@@ -7,7 +7,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdriz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-<h2 align="center">Skills (Frameworks-Languages-Tools-Databases)</h2>
+<h2 align="center">Tech Stacks</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap,php,js,css,html,go,jquery,python,java,mysql" /><br>
