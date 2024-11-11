@@ -20,9 +20,9 @@
 <h2 align="center">Tech Stacks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,php,js,css,html,go,jquery,python,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,laravel,bootstrap,php,css,html,go,jquery,python,java,mysql" /><br>
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,docker,gcp" />
 </div>
 
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer&reversal=false&fontAlignY=30&fontSize=35">
