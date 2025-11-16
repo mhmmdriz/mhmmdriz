@@ -1,4 +1,7 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&text=Welcome%20to%20My%20Github!&section=header&reversal=false&fontAlignY=30&fontSize=35">
+<div align="center">
+  <img align="center" width="60%" alt="my_logo_final_3" src="https://github.com/user-attachments/assets/fe46c2ad-e399-4948-b350-bbda83b9614c" />
+</div>
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
